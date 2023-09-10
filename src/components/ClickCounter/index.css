@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f5f8;
+  height: 100vh;
+}
+
+.heading {
+  color: #2d3a35;
+  font-family: 'Roboto';
+}
+
+.counter {
+  color: #c20a72;
+}
+
+.para {
+  color: #2d3a35;
+  font-family: 'Roboto';
+}
+
+.button {
+  color: #ffffff;
+  background-color: #007bff;
+  border-width: 0px;
+  padding: 10px;
+  cursor: pointer;
+}
